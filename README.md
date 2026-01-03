@@ -40,7 +40,7 @@ title, author, and member ID.
 - Edge cases handled such as unavailable books and borrow limits
 
 ## Team Members & Contribution
-This project was completed individually by Alina Hassan.
+This README was completed individually by Alina Hassan.
 
 ## Notes
 - File I/O not implemented
