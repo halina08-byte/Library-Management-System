@@ -41,6 +41,8 @@ title, author, and member ID.
 
 ## Team Members & Contribution
 This README was completed individually by Alina Hassan.
+The demo video was created individually by Alina Hassan.
+The library system was programmed by team(Alina Hassan,Zoya Akbar,Zamia Asghar).
 
 ## Notes
 - File I/O not implemented
